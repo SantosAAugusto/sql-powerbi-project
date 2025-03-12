@@ -16,5 +16,5 @@ After installation, you will need to open the 'ODBC Data Sources' on your comput
 When you click 'Add', in the window that opens, give the driver a name of your choice and specify the path where your SQLite Database is located.
 
 ## Connecting the Database into Power BI
-First, open a Power BI project. After, click in 'Get data' and select 'ODBC' option.
-Then, in the next window, select the Driver you installed, which now have a Database connection (your SQLite Database).
+First, open a Power BI project. After, click in 'Get data' and select 'ODBC' option. ('ODBC_1' - Images file).
+Then, in the next window, select the Driver you installed, which now have a Database connection ('ODBC_2' - Images file).
