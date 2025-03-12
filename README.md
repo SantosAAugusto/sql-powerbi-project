@@ -7,6 +7,7 @@ Once the connection is established, the tables present in the database will be a
 
 ## Driver Installation
 The ODBC Driver can be found in the following link: [ODBC Driver](https://www.devart.com/odbc/sqlite/).
+
 Notice: there's a free trial. In case you or your company want to use for a long period, you have to pay for it.
 For our explanation, there's no need to pay, but you will only have 30 days of using.
 
